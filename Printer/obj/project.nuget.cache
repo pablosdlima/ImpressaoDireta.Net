@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8TDql7qzrmWFkjVfNFkPDSnYy/krfn6KcN0Uh3KZhAzIt66zKLMFf7B6xlQtV1NZp83s2dNmjB2Cw/PLrPtBLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lpablo\\Desktop\\Printer\\Printer\\Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lpablo\\.nuget\\packages\\cete.dynamicpdf.printing.net\\4.19.0\\cete.dynamicpdf.printing.net.4.19.0.nupkg.sha512",
+    "C:\\Users\\lpablo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lpablo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
